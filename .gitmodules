@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "move"]
+	path = move
+	url = https://gitlab.com/bartk/move
+[submodule "move2"]
+	path = move2
+	url = https://gitlab.com/bartk/move2
+[submodule "moveWindSpeed"]
+	path = moveWindSpeed
+	url = https://gitlab.com/bartk/movewindspeed
+[submodule "starsTileServer"]
+	path = starsTileServer
+	url = https://gitlab.com/bartk/starstileserver
